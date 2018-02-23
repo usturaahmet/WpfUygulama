@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Label x:Name="label" Content="sa kardeşim" HorizontalAlignment="Left" Margin="222,89,0,0" VerticalAlignment="Top" Width="101"/>
+        <Label x:Name="label" Content="ahmet yavaş" HorizontalAlignment="Left" Margin="222,89,0,0" VerticalAlignment="Top" Width="101"/>
 
     </Grid>
 </Window>
